@@ -4,7 +4,7 @@ from tkinter import messagebox, ttk
 from ttkbootstrap import Style
 from questionnaire import questions
 
-# Input CSV file that has information abuot residences
+# Input CSV file that has information about residences
 df = pd.read_csv('uofcresidences.csv')
 
 # Declare that we have not asked any questions yet and that the user has not given any answers yet
