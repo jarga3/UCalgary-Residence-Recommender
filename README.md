@@ -3,7 +3,7 @@ An application that asks the user a variety of questions about their preferences
 
 
 *IMPORTANT*
-This project is still incomplete.
+This project is still incomplete and is a work in progress.
 
 The UCalgary Residence Recommender is currently built on Python using Tkinter to create a GUI and the Pandas library. The GUI in my opinion is good for what it is, however I plan to flesh it out more and turn the idea into a web application in the near future so that other students and prospective students at the UofC can benefit from it more. Right now, the function to calculate the room preference is incomplete. To finish it, I hope to explore the Pandas library by comparing the user's input's to the dataframe made from the CSV file to improve my understanding of Pandas and to make the cacluations well thought out and concise. 
 
